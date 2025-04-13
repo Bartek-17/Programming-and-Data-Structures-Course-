@@ -1,0 +1,1 @@
+Most programs use primlib - simple graphics library based on SDL_gfx library. To run the programs you need to install SDL 1.2 (https://www.libsdl.org/) and SDL_gfx (https://www.ferzkopp.net/~aschiffler/Software/SDL_gfx-2.0/).
